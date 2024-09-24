@@ -7,6 +7,10 @@ import { FAQs } from "@/components/FAQs";
 import { CallToAction } from "@/components/CallToAction";
 import { Footer } from "@/components/Footer";
 import { Pricing } from "@/components/Pricingdemo";
+import AboutUs from "@/components/aboutUs";
+import WhyInvest from "@/components/Why";
+import InvestmentOpportunities from "@/components/invest";
+import InvestmentSection from "@/components/Investment";
 
 
 export default function Home() {
@@ -15,10 +19,10 @@ export default function Home() {
     <div className="overflow-x-hidden">
       <Navbar />
       <Hero />
-      <LogoTicker />
-      
+      <AboutUs />
       <Features />
-      
+      <WhyInvest />
+      <InvestmentOpportunities />
       <ProductShowcase />
       <FAQs />     
       <CallToAction />

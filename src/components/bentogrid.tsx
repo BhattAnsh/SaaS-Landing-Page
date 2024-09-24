@@ -167,7 +167,7 @@ const AWSIcon = () => {
 
       
       <div className="text-left p-6 mt-4">
-        <h1 className="text-white text-2xl font-bold mb-2">AWS Integration</h1>
+        <h1 className="text-white text-2xl font-bold mb-2">Customised Investment Statergies</h1>
         <p className="text-gray-400 text-lg">integrate AWS and use seamlessly with us.</p>
       </div>
     </div>
@@ -266,7 +266,7 @@ const BentoBox1 = () => {
               </div>
             </div>
             <div className="text-left p-6 mt-4">
-              <h1 className="text-white text-2xl font-bold mb-2">Incredible Growth</h1>
+              <h1 className="text-white text-2xl font-bold mb-2">Commodities investment</h1>
               <p className="text-white/70 text-lg">Fly through your tasks with rapid-fire keyboard shortcuts for everything. Literally everything.</p>
             </div>
           </div>
@@ -276,7 +276,7 @@ const BentoBox1 = () => {
             <div className="flex flex-col justify-center h-full">
               <LogoBeam />
               <div className="text-left p-6">
-                <h1 className="text-white text-2xl font-bold mb-2">Multiple Technologies</h1>
+                <h1 className="text-white text-2xl font-bold mb-2">Global Trade Financing</h1>
                 <p className="text-white/70 text-lg">Fly through your tasks with rapid-fire keyboard shortcuts for everything. Literally everything.</p>
               </div>
             </div>
